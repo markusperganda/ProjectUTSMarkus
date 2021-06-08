@@ -1,0 +1,8 @@
+{
+    "name": "markus/markus",
+    "type": "project",
+    "license": "GPL",
+    "require": {
+        "google/apiclient": "^2.9"
+    }
+}
